@@ -13,8 +13,8 @@ body{
 
 
 .card{
-    height: 400px;
-    width: 320px;
+    height: 800px;
+    width: 620px;
     background-color: rgba(255, 255, 255, 0.06);
     -webkit-backdrop-filter: blur(20px);
             backdrop-filter: blur(20px);
